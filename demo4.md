@@ -31,7 +31,7 @@
 
 图片链接：
 
-[![][baidu_logo)]][baidu]
+[![][baidu_logo]][baidu]
 
 
 ## 引用链接问题
